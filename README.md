@@ -6,7 +6,7 @@
 1. Скачайте репозиторий командой
 
   	```sh
-  	git clone 
+  	git clone https://github.com/SerhiiAlieksieiev/mailing-script.git
 	```
 	
 2. Сделайте виртуальное окружение командой
@@ -20,10 +20,11 @@
 	```sh
     py -m pip install -r requirements.txt
     ```
-4. Добавьте [переменные окружения]()
+4. Добавьте [переменные окружения](https://github.com/SerhiiAlieksieiev/mailing-script#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
 
+5. Замените email адрес и отредактируйте письмо
 
-5. Запустите скрипт командой с вашей ссылкой
+6. Запустите скрипт командой
 
 	```sh
     python main.py
